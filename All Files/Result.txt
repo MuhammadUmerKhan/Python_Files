@@ -1,0 +1,19 @@
+The Marks of Abdur Rafay in Math is: 80
+The Marks of Abdur Rafay in English is: 90
+The Marks of Abdur Rafay in Physics is: 80
+The Marks of Abdur Rafay in Islamiat is: 98
+
+The Marks of Rayyan in Math is: 89
+The Marks of Rayyan in English is: 89
+The Marks of Rayyan in Physics is: 88
+The Marks of Rayyan in Islamiat is: 99
+
+The Marks of Umer in Math is: 100
+The Marks of Umer in English is: 99
+The Marks of Umer in Physics is: 89
+The Marks of Umer in Islamiat is: 78
+
+------------Result------------
+Percentage of Abdur Rafay is: 87.0%
+Percentage of Rayyan is: 91.25%
+Percentage of Umer is: 91.5%
