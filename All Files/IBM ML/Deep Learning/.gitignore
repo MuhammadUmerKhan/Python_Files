@@ -4,3 +4,4 @@ stop
 O_R_tlearn_image_augm_cnn_vgg16.keras
 O_R_tlearn_image_augm_fine_tune_vgg16.keras
 test_set_stop_not_stop
+mini_speech_commands
